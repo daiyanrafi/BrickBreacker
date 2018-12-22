@@ -1,4 +1,4 @@
-package DX_BALL;
+package BB_GAME;
 
 import java.awt.event.*;
 import javax.swing.*;
